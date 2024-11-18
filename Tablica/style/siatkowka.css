@@ -1,0 +1,78 @@
+@font-face {
+    font-family: Orbitron;
+    src: url(digital-7.regular.ttf);
+}
+body{
+    background-color: black;
+    color: white;
+}
+#box{
+    margin:100px;
+}
+#drużyny{
+    width: auto;
+    text-align: center;
+    margin: 0px 100px 0px 100px;
+}
+#boxA{
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+#boxB{
+    float: right;
+    width: 50%;
+    text-align: center;
+}
+#teamA{
+    color: white;
+    font-size: 400%;
+    font-family: Orbitron;
+    font-weight: 300;
+}
+#teamB{
+    color: white;
+    font-size: 400%;
+    font-family: Orbitron;
+    font-weight: 300;
+}
+#punkty{
+    width: auto;
+    clear: both;
+    margin: 0px 300px 0px 300px;
+    text-align: center;
+}
+#punktyA{
+    color: yellow;
+    font-size: 1200%;
+    float: left;
+    font-family:Orbitron;
+}
+#punktyB{
+    color: yellow;
+    font-size: 1200%;
+    float: right;
+    font-family:Orbitron;
+}
+#set{
+    font-family: Orbitron;
+    clear: both;
+}
+#setText{
+    font-weight: 100;
+    font-family: Orbitron;
+}
+#setyA{
+    color: yellow;
+    font-size: 600%;
+    margin:0px 0px 0px 100px;
+    float: left;
+    font-family:Orbitron;
+}
+#setyB{
+    color: yellow;
+    font-size: 600%;
+    margin:0px 100px 0px 0px;
+    float: right;
+    font-family:Orbitron;
+}

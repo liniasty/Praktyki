@@ -1,0 +1,29 @@
+Siatkówka
+-Lewo
+punkty 
+I/J
+sety
+U/H
+-Prawo
+punkty
+O/K
+sety
+P/L
+-Zamiana
+Y
+
+Piłka Nożna
+-Lewo
+punkty
+I/J
+-Prawo
+punkty
+O/K
+-Zamiana
+Y
+-Start/Stop timer
+Space
+-Reset
+Reset
+-Podaj dowolny czas
+D
