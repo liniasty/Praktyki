@@ -1,0 +1,18 @@
+body{
+    background-color: #525252;
+}
+#box{
+    border: 1px solid black;
+    margin:20px auto;
+    text-align: center;
+    width: 500px;
+}
+#teamA{
+    float: left;
+}
+#teamB{
+    float:right;
+}
+a:visited{
+    
+}

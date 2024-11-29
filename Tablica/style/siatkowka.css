@@ -1,0 +1,113 @@
+@font-face {
+    font-family: Orbitron;
+    src: url(digital-7.regular.ttf);
+}
+body{
+    background-color: black;
+    color: white;
+}
+#boxA{
+    float: left;
+    width: 45%;
+    text-align: center;
+}
+#boxTime{
+    float: left;
+    width: 10%;
+    text-align: center;
+}
+#boxB{
+    float: right;
+    width: 45%;
+    text-align: center;
+}
+#teamA{
+    color: white;
+    font-size: 500%;
+    font-family: Orbitron;
+    font-weight: 300;
+}
+#time{
+    color: yellow;
+    font-family: orbitron;
+    font-size: 300%;
+    font-weight: 300;
+}
+#teamB{
+    color: white;
+    font-size: 500%;
+    font-family: Orbitron;
+    font-weight: 300;
+}
+#boxPA{
+    float:left;
+    width: 40%;
+    text-align: center;
+}
+#punktyA{
+    color: yellow;
+    font-size: 2500%;
+    font-family:Orbitron;
+}
+#boxKropki{
+    width: 20%;
+    float: left;
+    text-align: center;
+    padding-top: 100px;
+}
+#akropka{
+    width: 20px;
+    height: 20px;
+    float:left;
+    border-radius: 100%;
+}
+#bkropka{
+    width: 20px;
+    height: 20px;
+    float: right;
+    border-radius: 100%;
+}
+#boxPB{
+    float:right;
+    width: 40%;
+    text-align: center;
+}
+#punktyB{
+    color: yellow;
+    font-size: 2500%;
+    font-family:Orbitron;
+}
+#sety{
+    float: left;
+    margin-top: 100px;
+    width: 20%;
+}
+#setyA{
+    color: red;
+    font-size: 600%;
+    float: left;
+    font-family:Orbitron;
+}
+#setyB{
+    color: red;
+    font-size: 600%;
+    float: right;
+    font-family:Orbitron;
+}
+#boxsety{
+    clear: both;
+    width: 80%;
+    margin: auto;
+}
+#A{
+    float: left;
+    font-family: orbitron;
+    font-size: 450%;
+    color:red;
+}
+#B{
+    float: right;
+    font-family: orbitron;
+    font-size: 450%;
+    color:red;
+}

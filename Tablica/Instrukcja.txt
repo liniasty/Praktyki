@@ -1,0 +1,69 @@
+Siatkówka
+-Lewo
+punkty 
+I/J
+sety
+U/H
+-Prawo
+punkty
+O/K
+sety
+P/L
+-Zamiana
+Y
+
+Piłka Nożna
+-Lewo
+punkty
+I/J
+-Prawo
+punkty
+O/K
+-Zamiana
+Y
+-Start/Stop timer
+Space
+-Reset
+Reset
+-Podaj dowolny czas
+D
+
+Piłka ręczna
+-Lewo
+punkty
+I/J
+kara
+U
+-Prawo
+punkty
+O/K
+kara
+P
+-Zamiana
+Y
+-Start/Stop timer
+Space
+-Reset
+Reset
+-Podaj dowolny czas
+D
+
+Koszykówka
+-Lewo
+punkty
+I/J
+faule
+U/H
+-Prawo
+punkty
+O/K
+faule
+P/L
+-Zamiana
+Y
+-Start/Stop timer
+Space
+-Reset
+Reset
+-Podaj dowolny czas
+D
